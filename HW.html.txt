@@ -2,3 +2,5 @@ print("Hello world!;");
 var i;
 var j;
 j = 23;
+print("Hello my dear friend!");
+print("HI!");
