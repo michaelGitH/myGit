@@ -1,4 +1,3 @@
 print("Hello world!");
 var i;
 var j;
-i = j = print("Hello");
